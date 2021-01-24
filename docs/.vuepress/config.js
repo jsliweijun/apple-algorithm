@@ -3,7 +3,7 @@ module.exports = {
   title: "小六算法",
   description: "Just playing around",
   displayAllHeaders: true,
-  base:'little-six-algorithm',
+  base:'/little-six-algorithm/',
   themeConfig: {
     // /代表的是 public 下面的资源
     logo: "/logo.png",
