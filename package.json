@@ -1,0 +1,24 @@
+{
+  "name": "little-six-algorithm",
+  "version": "1.0.0",
+  "description": "小六算法，学习数据结构和算法",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsliweijun/little-six-algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsliweijun/little-six-algorithm/issues"
+  },
+  "homepage": "https://github.com/jsliweijun/little-six-algorithm#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  }
+}
